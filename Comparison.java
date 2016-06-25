@@ -2,7 +2,7 @@ import java.util.Scanner; // program uses class Scanner
 public class Comparison  
 {    
     // main method begins execution of Java application    
-    public Static void main( String args[] )    
+    public Static void main( String [] args )    
     {
         // create Scanner to obtain input from command window       
         Scanner input = Scanner( System.in );  
